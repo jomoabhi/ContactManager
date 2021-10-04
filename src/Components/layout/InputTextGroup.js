@@ -8,6 +8,7 @@ const InputTextGroup = ({
   value,
   type,
   onChange,
+
   errors,
 }) => {
   return (
